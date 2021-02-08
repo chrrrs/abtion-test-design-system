@@ -1,7 +1,7 @@
 import React from "react";
 import { Skeleton, Stack, useToast } from "@chakra-ui/react";
 
-function Card(props) {
+export function Card(props) {
   const { title, description, status, duration, isClosable } = props;
   const toast = useToast();
 
@@ -23,5 +23,3 @@ function Card(props) {
     </Stack>
   );
 }
-
-export default Card;
