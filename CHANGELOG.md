@@ -1,3 +1,15 @@
+# v0.3.6 (Mon Feb 08 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Export Card component ([@iamchrisjp](https://github.com/iamchrisjp))
+
+#### Authors: 1
+
+- Chris ([@iamchrisjp](https://github.com/iamchrisjp))
+
+---
+
 # v0.3.5 (Mon Feb 08 2021)
 
 #### ⚠️ Pushed to `main`
