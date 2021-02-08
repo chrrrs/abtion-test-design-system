@@ -4,7 +4,7 @@ import App from "./App";
 import { ChakraProvider } from "@chakra-ui/react";
 
 // export all components
-export * from "./components/Card";
+export * as Card from "./components/Card";
 
 ReactDOM.render(
   <React.StrictMode>
