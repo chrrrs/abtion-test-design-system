@@ -1,3 +1,16 @@
+# v0.3.4 (Thu Feb 04 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/iamchrisjp/abtion-test-design-system into main ([@iamchrisjp](https://github.com/iamchrisjp))
+- fix fix ([@iamchrisjp](https://github.com/iamchrisjp))
+
+#### Authors: 1
+
+- Chris ([@iamchrisjp](https://github.com/iamchrisjp))
+
+---
+
 # v0.3.3 (Thu Feb 04 2021)
 
 #### ⚠️ Pushed to `main`
